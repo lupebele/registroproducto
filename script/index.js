@@ -61,7 +61,7 @@ const listarProductos = () => {
     });
 }
 //16. llamar fun cuando document inicial cargado
-document.addEventListener('DOMContentLoaded',listarProductos);
+document.addEventListener('DOMContentLoaded',listaProductos);
 
 //17. call event y capture element to delete
 listaProductos.addEventListener('click', (e) => {
