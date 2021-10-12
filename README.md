@@ -8,3 +8,5 @@ Nombre
 Imagen
 
 en **JS** se implementa variables, funciones, eventos, objetos, arreglos, localStorage.
+
+Despliegue: https://lupebele.github.io/registroproducto/
